@@ -1,9 +1,10 @@
-# Phibochilai-X
+# Phibochilai X - "Kaniko"
+
 飞不起来10号
 
 都出到10了吗?!
 
-暂无代号,求起名委员会支援
+名字什么的先随便起一个好了
 
 XFLR5 6.39
 
