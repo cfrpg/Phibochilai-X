@@ -1,0 +1,5 @@
+<ANSYS_GeometryData>
+  <Prototype Identifier="{52764A69-878C-4B01-BCC9-6E118928DB9B}">
+    <Properties BrickIntegrationScheme="0" Comments="None" GeometryType="0" GroupThisBody="1" IsFieldBody="0" IsInfluenceBody="0" IsVirtual="0" IsWindingBody="0" MassMomentOfInertiaCoordSystemId="0" MaterialId="7c57c165-ef30-4332-8139-593cfdf037d4" MaterialPolarizationDirection="0" ModelType="0" Name="PartBody" NonlinearMaterialEffects="1" NumTurns="0" OffsetManualorAutomatic="1" ParentName="PartBody" ParentUserNameChange="0" Phase="0" PrimarySuppressionState="0" Priority="0" ReferenceFrameType="1" ReferenceTemperature="22" SelectedCoordSystemId="19" SheetThickness="0" ShellOffsetType="1" StiffnessBehavior="0" SuppressionState="0" ThermalStrainCalculation="1" TwoDmodelBehavior="0" UnitSystem="0" UseReferenceTemperature="0" UserNameChange="0" UserNumTurnsChange="0" UserOffsetType="0" UserOffsetTypeChange="0" UserOffsetValue0="0" UserOffsetValue1="0" UserOffsetValueChange="0" UserStateChange="1" UserThicknessChange="0" VirtualBodyDefineBy="0" VirtualBodyVisibility="1" />
+  </Prototype>
+</ANSYS_GeometryData>
