@@ -10,4 +10,6 @@ XFLR5 6.39
 
 OpenVSP 3.13.1
 
+CATIA V5r21
+
 贴图：pid=65524353
