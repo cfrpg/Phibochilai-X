@@ -1,5 +1,7 @@
 # Phibochilai X - "Kaniko"
 
+![Image text](https://raw.githubusercontent.com/cfrpg/Phibochilai-X/master/doc/65524353.jpg)
+
 飞不起来10号
 
 都出到10了吗?!
